@@ -1,4 +1,3 @@
-```markdown
 # DBMS Lab
 
 This repository contains the experiments and assignments completed as part of the Database Management Systems (DBMS) laboratory.
