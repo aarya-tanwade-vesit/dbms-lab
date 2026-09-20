@@ -1,13 +1,25 @@
 # DBMS Lab
 
-This repository contains the experiments and assignments completed as part of the Database Management Systems (DBMS) laboratory.
+> **Database Management Systems Laboratory · Semester 3**
 
-## Experiments
+### Student Details
 
-- Exp-0: Introduction to SQL and MySQL
-- Exp-1
-- Exp-2
-- Exp-3
+| | |
+|---|---|
+| **Name** | Aarya Tanwade |
+| **Roll No.** | 61 |
+| **Class** | D6EC |
+| **Semester** | 3 |
+| **Batch** | 2026–27 |
+| **Institute** | VESIT |
 
-More experiments will be added throughout the course.
-```
+## 📚 Experiments
+
+| Experiment | Files | Status |
+|:---:|---|:---:|
+| **Exp-0** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%200.pdf) | ✅ |
+| **Exp-1** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%201.pdf) | ✅ |
+| **Exp-2** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%202.pdf) | ✅ |
+| **Exp-3** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%203.pdf) · [ER Diagram](./Aarya%20Tanwade%20University_Research_Management_ER_Diagram.png) | ✅ |
+
+> More experiments will be added throughout the course.
