@@ -4,22 +4,23 @@
 
 ### Student Details
 
-| | |
-|---|---|
-| **Name** | Aarya Tanwade |
-| **Roll No.** | 61 |
-| **Class** | D6EC |
-| **Semester** | 3 |
-| **Batch** | 2026–27 |
-| **Institute** | VESIT |
+|               |               |
+| ------------- | ------------- |
+| **Name**      | Aarya Tanwade |
+| **Roll No.**  | 61            |
+| **Class**     | D6EC          |
+| **Semester**  | 3             |
+| **Batch**     | 2026–27       |
+| **Institute** | VESIT         |
 
 ## 📚 Experiments
 
-| Experiment | Files | Status |
-|:---:|---|:---:|
-| **Exp-0** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%200.pdf) | ✅ |
-| **Exp-1** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%201.pdf) | ✅ |
-| **Exp-2** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%202.pdf) | ✅ |
-| **Exp-3** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%203.pdf) · [ER Diagram](./Aarya%20Tanwade%20University_Research_Management_ER_Diagram.png) | ✅ |
+| Experiment | Files                                                                                                                                  | Status |
+| :--------: | -------------------------------------------------------------------------------------------------------------------------------------- | :----: |
+|  **Exp-0** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%200.pdf)                                                                                   |    ✅   |
+|  **Exp-1** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%201.pdf)                                                                                   |    ✅   |
+|  **Exp-2** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%202.pdf)                                                                                   |    ✅   |
+|  **Exp-3** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%203.pdf) · [ER Diagram](./Aarya%20Tanwade%20University_Research_Management_ER_Diagram.png) |    ✅   |
+|  **Exp-4** | [PDF](./Aarya%20Tanwade%20DBMS%20Experiment%204.pdf)                                                                                   |    ✅   |
 
 > More experiments will be added throughout the course.
